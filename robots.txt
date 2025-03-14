@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rish.uk/sitemap.xml
+Sitemap: https://pyris.github.io/sitemap.xml
