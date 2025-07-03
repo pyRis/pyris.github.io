@@ -31,4 +31,3 @@ I am a Master's student at Charles University and Saarland University. My resear
 
 If you would like to collaborate on these areas, please feel free to reach out via email/DM.
 
-I have been mostly away from studies/research between Late 2023 - Early 2025, to focus on recovering health after getting diagnosed with long covid. Chances are that during this period your emails were unanswered, if that's the case, please resend the email.
