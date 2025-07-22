@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Master's student at Charles University and Saarland University. My research interest are in Multilingual Natural Language Generation (Machine Translation, Summarization), evaluation, document processing and robust/reliable NLP. Currently doing an internship at IRIT (Toulouse) with Prof. Jose Moreno for model merging and RAG.
+I am a Master's student at Charles University and Saarland University. My research interest are in Multilingual Natural Language Generation (Machine Translation, Summarization) & Evaluation, Robust/Reliable NLP for long-document understanding (Memory vs. Retrieval etc). Currently doing an internship at IRIT (Toulouse) with Prof. Jose Moreno for model merging and RAG. I am also looking for a PhD position in these domain.
 
-If you would like to collaborate on these areas, please feel free to reach out via email/DM.
 
+I am always up for collaboration in these domain, please feel free to reach out via email/DM.
