@@ -15,16 +15,16 @@
       institution: Saarland University, Saarbrücken, Germany
       year: 2025
       description:
-        - Field: Language Science and Technology
-        - Thesis: "Does multilingual training improve the performance for low-resource language summarization?"
-        - Software Project: "BART meets Shakespeare: Automatic Summarization with Deep Learning Methods"
+        - "Field: Language Science and Technology"
+        - "Thesis: Does multilingual training improve the performance for low-resource language summarization?"
+        - "Software Project: BART meets Shakespeare: Automatic Summarization with Deep Learning Methods"
     - title: Bachelor's
       institution: Bhagalpur College of Engineering, Bhagalpur, India
       year: 2018
       description:
-        - Field: Computer Science Engineering
-        - Major Project: "e-Dustbin: A fully automated dustbin using Arduino to optimize route for waste pickup vehicles"
-        - Minor Project: "Finding weakest node in a network for attack and maximum damage using graph theory"
+        - "Field: Computer Science Engineering"
+        - "Major Project: e-Dustbin: A fully automated dustbin using Arduino to optimize route for waste pickup vehicles"
+        - "Minor Project: Finding weakest node in a network for attack and maximum damage using graph theory"
 
 - title: Academic Interests
   type: nested_list
@@ -32,12 +32,12 @@
     - title: Fundamentals of LLMs
       items:
         - Language Learning vs Knowledge
-        - Multilingual CoT (why it does not work)
+        - Multilingual CoT and Data contamination
         - Knowledge base integration for training
     - title: Natural Language Generation
       items:
         - Multilingual Models (MoE vs Single Model)
-        - Relevance of n-gram based evaluation metrics with modern LLMs
+        - Rethinking n-gram based evaluation metrics with modern LLMs
         - Better multilingual eval suites
 
 - title: Hobbies
